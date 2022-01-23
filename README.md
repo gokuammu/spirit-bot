@@ -10,8 +10,8 @@
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://github.com/gokuammu/spirit-bot)
-     </div>
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)]((https://heroku.com/deploy?templategithub.com/gokuammu/spirit-bot)
+     </div>hytps://
 <br>
 <br >
  
